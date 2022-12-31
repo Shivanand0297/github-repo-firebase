@@ -31,7 +31,7 @@ const Header = () => {
             GitHub Search
           </span>
           <span className="mx-3 text-xs sm:text-sm text-white ">
-            {user?.email ? `Welcome ${user.email}` : ""}{" "}
+            {user?.email ? user.email : ""}{" "}
             {/*TODO: conditional rendring */}
           </span>
         </Link>
