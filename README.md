@@ -1,4 +1,7 @@
 # A github repo search app with firebase authentication
+This is a github repo search app which let you find details of user profiles based on the userid
+
+[live link](https://github-repos-firebase.netlify.app/)
 
 ### Learnings
 - Creating the flow of the application with react router v6
